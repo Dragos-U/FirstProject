@@ -1,6 +1,7 @@
 package Tutorials.basic;
-
-
+/**
+ *
+ */
 public class Constants {
 	
 	public static final int WIDTH = 800;
